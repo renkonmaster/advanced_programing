@@ -1,0 +1,11 @@
+*.out
+
+assets/*
+
+*.pdf
+*.typ
+
+*.sh
+!check2025.sh
+
+ex??.c
