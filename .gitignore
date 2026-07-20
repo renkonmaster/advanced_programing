@@ -1,6 +1,7 @@
 *.out
 *.txt
 *.bin
+*.bmp
 
 assets/*
 
