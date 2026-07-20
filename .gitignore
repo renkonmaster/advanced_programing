@@ -2,6 +2,7 @@
 *.txt
 *.bin
 *.bmp
+!preprocessed.txt
 
 assets/*
 
